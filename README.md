@@ -27,7 +27,6 @@
 - 🎓 **Master’s in Computer Engineering (NYU)** with a focus on **AI, ML, and 
     Distributed Systems**.
 - 🛠 Experienced in **Kubernetes, Docker, LangChain, RAG, PyTorch, and TensorFlow**.  
-- 📬 **Let’s connect:** 
 
 <p align="center">
 
