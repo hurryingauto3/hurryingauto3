@@ -4,7 +4,19 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hurryingauto3&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
   <a href="https://github.com/hurryingauto3"><img src="https://img.shields.io/github/followers/hurryingauto3?label=Followers&style=social" alt="GitHub Followers"></a>
-  <a href="https://linkedin.com/in/alihamza99"><img src="https://img.shields.io/badge/LinkedIn-AliHamza-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://linkedin.com/in/alihamza99" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/hurryingauto3" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:alihamza19999@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/hurryingauto3" target="_blank"></a>
+  <a href="https://aliihamza.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=react&logoColor=white" />
+    </a>
 </p>
 
 
@@ -18,18 +30,7 @@
 - 📬 **Let’s connect:** 
 
 <p align="center">
-<a href="https://linkedin.com/in/alihamza99" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/hurryingauto3" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:alihamza19999@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/hurryingauto3" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  </a>
+
 </p>
 
 ## 🛠 Tech Stack & Skills
