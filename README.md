@@ -80,11 +80,13 @@
 
 ## **📊 GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hurryingauto3&theme=tokyonight" alt="GitHub Streak" width="75%" />
-</p>
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hurryingauto3&theme=tokyonight" alt="Contribution Graph" width="75%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hurryingauto3&theme=tokyonight" alt="GitHub Streak" width="75%" />
+</p>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hurryingauto3&theme=tokyonight&margin-w=5&margin-h=5&row=1&column=6" alt="GitHub Trophies" width="75%" />
 </p>
