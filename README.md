@@ -77,20 +77,3 @@
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white" />
 </p>
-
-## **📊 GitHub Stats**
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hurryingauto3&theme=tokyonight" alt="Contribution Graph" width="75%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hurryingauto3&theme=tokyonight" alt="GitHub Streak" width="75%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hurryingauto3&theme=tokyonight&margin-w=5&margin-h=5&row=1&column=6" alt="GitHub Trophies" width="75%" />
-</p>
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=hurryingauto3&show_icons=true&theme=tokyonight&hide=&count_private=true" alt="GitHub Stats" /> -->
-  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hurryingauto3&theme=tokyonight" alt="Languages Per Repo" /> -->
-  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hurryingauto3&theme=tokyonight" alt="Productive Time" /> -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hurryingauto3&layout=compact&theme=tokyonight" alt="Top Languages" /> -->
