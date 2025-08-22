@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/hurryingauto3" target="_blank"></a>
-  <a href="https://aliihamza.com" target="_blank">
+  <a href="https://alihamzas.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=react&logoColor=white" />
     </a>
 </p>
