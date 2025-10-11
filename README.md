@@ -9,8 +9,6 @@
   <a href="https://github.com/hurryingauto3"><img src="https://img.shields.io/github/followers/hurryingauto3?label=Followers&style=social" /></a>
 </p>
 
----
-
 ## **💼 What I Do**
 
 I build **scalable software systems** at the intersection of **AI, infrastructure, and product**—from distributed training pipelines to production APIs serving hundreds of thousands of users.
@@ -25,8 +23,6 @@ I build **scalable software systems** at the intersection of **AI, infrastructur
 
 
 **Previously:** Built production systems at BlueLake (500K MAU)
-
----
 
 ## **🚀 Featured Projects**
 
