@@ -1,8 +1,6 @@
+<h3 align="left">Software & ML Systems Engineer | Production AI Infrastructure</h3>
 
-<h1 align="center">Ali Hamza</h1>
-<h3 align="center">Software & ML Systems Engineer | Production AI Infrastructure</h3>
-
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/alihamza99"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://alihamzas.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=react&logoColor=white" /></a>
   <a href="mailto:alihamza19999@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
