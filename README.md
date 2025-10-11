@@ -32,24 +32,10 @@ I build **scalable software systems** at the intersection of **AI, infrastructur
 
 ### **[Autonomous Vehicle Planning System](https://github.com/hurryingauto3/navsim-ijepa-planning-agent)** • Graduate Research
 Vision-based trajectory prediction using self-supervised learning on 1TB autonomous driving dataset
-- Achieved **0.847 PDMS** competitive score (top 3 on benchmark using camera-only input)
-- Engineered distributed training pipeline reducing training time by **65%** across multi-GPU cluster
-- Deployed production inference system with <15ms latency using TensorRT optimization
-- **Tech:** PyTorch, Vision Transformers, CUDA, Kubernetes, MLflow, Prometheus
 
 ### **[MLOps Crop Yield Platform](https://github.com/hurryingauto3/AgriYield)** • End-to-End ML System
 Production platform predicting county-level agricultural yields from satellite and weather data
-- Built **FastAPI model serving** with <500ms p95 latency supporting 50+ concurrent users
-- Implemented **data drift detection** identifying distribution shifts 48 hours before performance degradation
-- Architected **full MLOps stack**: Kubernetes deployment, Prometheus/Grafana monitoring, automated CI/CD
-- Provisioned cloud infrastructure using **Terraform + Ansible** for reproducible deployments
-- **Tech:** PyTorch, FastAPI, Kubernetes, Docker, Terraform, PostgreSQL, Kafka
 
 ### **[RealtorBuddy Platform](https://github.com/hurryingauto3/api-django-RealtorBuddyCore)** • Full-Stack Application
-Real estate platform with ML-powered recommendations and real-time property intelligence
-- Scaled backend infrastructure to **500K+ users** maintaining 99.9% uptime (Kubernetes + auto-scaling)
-- Built **real-time data pipeline** processing millions of events daily using Kafka and PostgreSQL
-- Designed **search infrastructure** with Elasticsearch enabling sub-100ms geospatial queries
-- Implemented **caching layer** (Redis + CDN) achieving 70% hit rate and reducing backend load by 40%
-- **Tech:** React, TypeScript, Python, FastAPI, Kubernetes, Kafka, PostgreSQL, Redis, AWS
+Real estate platform with AI-powered recommendations and real-time property intelligence
 
