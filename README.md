@@ -7,22 +7,22 @@
   <a href="https://github.com/hurryingauto3"><img src="https://img.shields.io/github/followers/hurryingauto3?label=Followers&style=social" /></a>
 </p>
 
-## **💼 What I Do**
+## **What I Do**
 
 I build **scalable software systems** at the intersection of **AI, infrastructure, and product**—from distributed training pipelines to production APIs serving hundreds of thousands of users.
 
 **Core Strengths:**
-- 🏗️ **Backend Engineering** → High-throughput APIs, microservices, database optimization
-- 🤖 **ML Systems** → Model training, serving, monitoring, and deployment at scale
-- ☁️ **Cloud Infrastructure** → Kubernetes, CI/CD, observability, cost optimization
-- 🎨 **Full-Stack Development** → End-to-end product delivery with modern frameworks
+- **Backend Engineering** → High-throughput APIs, microservices, database optimization
+- **AI/ML Systems** → Model training, serving, monitoring, and deployment at scale
+- **Cloud Infrastructure** → Kubernetes, CI/CD, observability, cost optimization
+- **Full-Stack Development** → End-to-end product delivery with modern frameworks
 
 **Currently:** MS Computer Engineering @ NYU (Graduating May 2026) | SWE @ Trinity Life Sciences
 
 
 **Previously:** Built production systems at BlueLake (500K MAU)
 
-## **🚀 Featured Projects**
+## **Featured Projects**
 
 ### **[Autonomous Vehicle Planning System](https://github.com/hurryingauto3/navsim-ijepa-planning-agent)** • Graduate Research
 Vision-based trajectory prediction using self-supervised learning on 1TB autonomous driving dataset
