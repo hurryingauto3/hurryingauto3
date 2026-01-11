@@ -24,7 +24,7 @@ I build **scalable software systems** at the intersection of **AI, infrastructur
 
 ## **Featured Projects**
 
-### **[Autonomous Vehicle Planning System](https://github.com/hurryingauto3/navsim-ijepa-planning-agent)** • Graduate Research
+### **[Autonomous Vehicle Planning System](http://ssl.alihamzas.com)** • Graduate Research
 Vision-based trajectory prediction using self-supervised learning on 1TB autonomous driving dataset
 
 ### **[MLOps Crop Yield Platform](https://github.com/hurryingauto3/AgriYield)** • End-to-End ML System
