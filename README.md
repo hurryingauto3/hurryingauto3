@@ -33,3 +33,10 @@ Production platform predicting county-level agricultural yields from satellite a
 ### **[RealtorBuddy Platform](https://github.com/hurryingauto3/api-django-RealtorBuddyCore)** • Full-Stack Application
 Real estate platform with AI-powered recommendations and real-time property intelligence
 
+### **[Cloud Provider Aggregator](https://github.com/hurryingauto3/cloudunify)** A unified cloud storage system that mounts multiple cloud providers (Google Drive, OneDrive, iCloud) as a single virtual filesystem.
+
+### **[HPC Experiment Manager](https://github.com/hurryingauto3/expflow-hpc)** Lightweight experiment tracking for HPC clusters.
+
+
+
+
