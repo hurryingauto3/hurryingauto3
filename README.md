@@ -40,6 +40,12 @@ A unified cloud storage system that mounts multiple cloud providers (Google Driv
 ### **[HPC Experiment Manager](https://github.com/hurryingauto3/expflow-hpc)** 
 Lightweight experiment tracking for HPC clusters.
 
+### **[SpotifYT](https://github.com/hurryingauto3/spotifyt)** 
+NextJS web app to sync playlists across multiple streaming platforms
+
+### **[ChatSync](https://github.com/hurryingauto3/chatsync)** 
+Extention for VS codium based IDEs to sync AI chat history across IDEs and machines
+
 
 
 
